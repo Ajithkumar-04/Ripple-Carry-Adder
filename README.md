@@ -2,7 +2,7 @@
 
 A 4-bit Ripple Carry Adder (RCA) implemented in Verilog with Fine-Grain Pipelining to minimize critical path delay, designed and simulated on AMD Vivado 2023.2.
 
-> Based on the IEEE paper: *"An Efficient Ripple Carry Adder Using Pipelining"* — Deepan Kumaar A, Giriprasath T.K., Ajithkumar P.R, Senthamizh Selvi R | Easwari Engineering College, Chennai | INNOVA 2024 | DOI: 10.1109/INNOVA63080.2024.10847016
+
 
 ---
 
